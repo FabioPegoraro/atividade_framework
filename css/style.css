@@ -9,8 +9,16 @@
     backdrop-filter: blur(4px);  
 }
 
+.article-images2 {
+    width: 250px;
+    border-radius: 50%;
+}
+
 .article-images {
-    width: 100%;
+    width: 350px;
+    border-radius: 50%;
+    
+
 }
 
 .brand-icon {
